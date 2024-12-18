@@ -1,0 +1,3 @@
+renderDistance: 10
+checkIntervalTicks: 200
+entityLimit: 1000
