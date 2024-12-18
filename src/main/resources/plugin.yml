@@ -1,0 +1,4 @@
+name: entityLimitSpigot
+version: '1.0'
+main: de.jutechs.entityLimitSpigot.Main
+api-version: '1.21'
